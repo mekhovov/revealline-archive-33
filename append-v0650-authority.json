@@ -1,0 +1,214 @@
+{
+  "status": "INACTIVE_ADDITIVE_APPEND_MAIN_ACCEPTED_ARCHIVE_SUCCESSOR_PENDING",
+  "repository": "mekhovov/revealline-archive-33",
+  "sourceRepository": "mekhovov/revealline",
+  "version": "v0.65.0",
+  "releaseId": 392203520,
+  "sourceRevision": "57fdc39aa78683f6de479eb77f810f60e7c6756a",
+  "sourceTree": "b71a23d6c2474da72ef379793c811e7097b0a156",
+  "tagObject": "74721a379e648f796e58a01fadf193f2467c2375",
+  "originalAssets": [
+    {
+      "name": "distribution.zip",
+      "id": 575432167,
+      "bytes": 313617518,
+      "sha256": "f31a07131c92f2f79955bd370b803ccb0bb9001b53e6e17b2641b817b46532e0",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/distribution.zip"
+    },
+    {
+      "name": "distribution.zip.sha256",
+      "id": 575427321,
+      "bytes": 83,
+      "sha256": "0949b6a7ce505d025b82763b2888e0cafe536d33c8a1f88e7b98f91b732733c0",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/distribution.zip.sha256"
+    },
+    {
+      "name": "manifest.json",
+      "id": 575427249,
+      "bytes": 129737,
+      "sha256": "e8054d47021e08aaba05037ca840160bb8eefb4db8e9132f35d0c48f39b07fc4",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/manifest.json"
+    },
+    {
+      "name": "qualification-evidence-record.json",
+      "id": 575427444,
+      "bytes": 11175,
+      "sha256": "53b704a6db28037d3854acbd67d222987e073e83aee08425dbfb305ed8dcf2ba",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/qualification-evidence-record.json"
+    },
+    {
+      "name": "release.json",
+      "id": 575427278,
+      "bytes": 465,
+      "sha256": "56dd4a05e4d9efb5b7597f03defb334d0be0ce97d5b595c7facd008bd5238690",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/release.json"
+    },
+    {
+      "name": "source-qualification-evidence.zip",
+      "id": 575427386,
+      "bytes": 1724499,
+      "sha256": "2c6b91a765ba2c8aa6219d19a17c851a1abc97438e47c298fe95488fa30b07f0",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/source-qualification-evidence.zip"
+    },
+    {
+      "name": "source-qualification.json",
+      "id": 575427349,
+      "bytes": 75210,
+      "sha256": "32b2d8a31a149999e6aec258a8bfe686dd4296a7832cbe496ce968a14e93a23c",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/source-qualification.json"
+    },
+    {
+      "name": "source.tar",
+      "id": 575431370,
+      "bytes": 1232916480,
+      "sha256": "3e43a0500bb7b26b87eb4a780ff3972add0804b8d1803720ecdc6fca73eec584",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/source.tar"
+    },
+    {
+      "name": "verification.json",
+      "id": 575427411,
+      "bytes": 1914,
+      "sha256": "7a2650a60cb490d1979b3b17cdf11741cd30be8d4b5e693d3de3f4ed35a85ff4",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.65.0/verification.json"
+    }
+  ],
+  "originalMetadata": [
+    {
+      "path": "metadata/v0.65.0/release.json",
+      "original": {
+        "path": ".cache/v0650-source57fd-final-qualification-r1/intake/release-attachments/release.json",
+        "bytes": 465,
+        "sha256": "56dd4a05e4d9efb5b7597f03defb334d0be0ce97d5b595c7facd008bd5238690"
+      },
+      "assetId": 575427278
+    },
+    {
+      "path": "metadata/v0.65.0/manifest.json",
+      "original": {
+        "path": ".cache/v0650-source57fd-final-qualification-r1/intake/release-attachments/manifest.json",
+        "bytes": 129737,
+        "sha256": "e8054d47021e08aaba05037ca840160bb8eefb4db8e9132f35d0c48f39b07fc4"
+      },
+      "assetId": 575427249
+    },
+    {
+      "path": "metadata/v0.65.0/distribution.zip.sha256",
+      "original": {
+        "path": ".cache/v0650-source57fd-final-qualification-r1/intake/release-attachments/distribution.zip.sha256",
+        "bytes": 83,
+        "sha256": "0949b6a7ce505d025b82763b2888e0cafe536d33c8a1f88e7b98f91b732733c0"
+      },
+      "assetId": 575427321
+    },
+    {
+      "path": "metadata/v0.65.0/source-qualification.json",
+      "original": {
+        "path": ".cache/v0650-source57fd-final-qualification-r1/intake/release-attachments/source-qualification.json",
+        "bytes": 75210,
+        "sha256": "32b2d8a31a149999e6aec258a8bfe686dd4296a7832cbe496ce968a14e93a23c"
+      },
+      "assetId": 575427349
+    }
+  ],
+  "knownOriginalPins": [
+    {
+      "path": ".cache/v0650-root-public-acceptance-r1/root-acceptance.json",
+      "bytes": 3333,
+      "sha256": "68a125432b79615c7a710d47c4276f3e326660b371e00dcec85db06c14012089"
+    },
+    {
+      "path": ".cache/v0650-root-public-acceptance-r1/release.json",
+      "bytes": 18738,
+      "sha256": "a840da31a7990a2adb4030d185ab73d1da146ed54ce27e118136e8d9e305c22f"
+    },
+    {
+      "path": ".cache/v0650-root-public-acceptance-r1/tag-ref.json",
+      "bytes": 337,
+      "sha256": "5ada49988e639a1c23f9c3276a19b05641098f0fbb2d2a5bcf170db8ba0fb60d"
+    },
+    {
+      "path": ".cache/v0650-root-public-acceptance-r1/tag.json",
+      "bytes": 745,
+      "sha256": "2e24d0c7ca0a680436d7e1b5d42e55788bc44a95c98252437206020902ae15a7"
+    },
+    {
+      "path": ".cache/v0650-root-public-acceptance-r1/source.json",
+      "bytes": 1435,
+      "sha256": "66fe0e06af1fbab2d31f86f7651b634ad0a23cfed1108e0f3dca7092fd1382f1"
+    }
+  ],
+  "templateRepository": "mekhovov/revealline-archive-33",
+  "templateCommit": "b184d8d8872ec305d8606ac99bd3d6235e291db8",
+  "templateTree": "b46cb2fa286731828733a65f0b83f6b205f8e3f8",
+  "mainPublicAcceptance": {
+    "path": ".cache/v0650-root-public-acceptance-r1/root-acceptance.json",
+    "bytes": 3333,
+    "sha256": "68a125432b79615c7a710d47c4276f3e326660b371e00dcec85db06c14012089"
+  },
+  "actualArchiveCommit": null,
+  "actualWorkflowRun": null,
+  "actualDeploymentId": null,
+  "publicAcceptance": null,
+  "priorAcceptedArchivePaths": 712,
+  "preservedPriorRows": 711,
+  "changedPriorPaths": [
+    "index.html"
+  ],
+  "newRows": 709,
+  "newBytes": 313571215,
+  "budgetBytes": 800000000,
+  "priorArchiveAcceptance": {
+    "path": ".cache/archive33-v0643-final-acceptance-r1/root-acceptance.json",
+    "bytes": 4617,
+    "sha256": "5ff171278942f5a905cd9ac9659542b678afa09ea3f7ee28227d72ea569d4b18"
+  },
+  "freshOriginals": [
+    {
+      "path": ".cache/archive33-v0650-append-candidate-r1/originals/archive-commit.json",
+      "bytes": 2731,
+      "sha256": "5f8d56fa3116aaf8d854205c488c3f046e54081f8ce841acae178d90e9f78e5f"
+    },
+    {
+      "path": ".cache/archive33-v0650-append-candidate-r1/originals/archive-main.json",
+      "bytes": 358,
+      "sha256": "42d6cb0b0cf35835b24b43d2d8109bd878b0a55b5f56da480e0be26dbc5b4fae"
+    },
+    {
+      "path": ".cache/archive33-v0650-append-candidate-r1/originals/requests.json",
+      "bytes": 1658,
+      "sha256": "43cdfe54a80d0e454039b90caba81d1526be1ef7962347341853a41c0c7e1506"
+    },
+    {
+      "path": ".cache/archive33-v0650-append-candidate-r1/originals/v0650-release.json",
+      "bytes": 18738,
+      "sha256": "d34aa272d30a1161d5a34e939766d472d22b3146e44fc11c7fd40132d3c95405"
+    },
+    {
+      "path": ".cache/archive33-v0650-append-candidate-r1/originals/v0650-source.json",
+      "bytes": 1435,
+      "sha256": "66fe0e06af1fbab2d31f86f7651b634ad0a23cfed1108e0f3dca7092fd1382f1"
+    },
+    {
+      "path": ".cache/archive33-v0650-append-candidate-r1/originals/v0650-tag-object.json",
+      "bytes": 745,
+      "sha256": "2e24d0c7ca0a680436d7e1b5d42e55788bc44a95c98252437206020902ae15a7"
+    },
+    {
+      "path": ".cache/archive33-v0650-append-candidate-r1/originals/v0650-tag-ref.json",
+      "bytes": 337,
+      "sha256": "5ada49988e639a1c23f9c3276a19b05641098f0fbb2d2a5bcf170db8ba0fb60d"
+    }
+  ],
+  "preservedOriginalV0643Rows": 709,
+  "combinedRows": 1421,
+  "combinedBytes": 627143902
+}
