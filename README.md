@@ -1,2 +1,11 @@
-# revealline-archive-33
-Immutable RevealLine releases retained for historical play and comparison.
+# RevealLine Archive33: original v0.64.3
+
+Prepared archive infrastructure preserving the original stable Workshop release. Main v0.64.3 public acceptance, infrastructure source merge, hosted extraction/deployment, complete public-byte verification and scoped archive-native acceptance remain pending. Null authorities in input-authority.json must be replaced by separately retained actual records; a stable release or successful build alone is not acceptance.
+
+Source `7a9985ec00168b99a86c1d5db0457343ca18ffae`, tree `4a5960488f4c19fc8fbd6e784c612b8bdb81596e`, immutable annotated tag `0d06433cbcd5bafdda630d8590198bde05c3d4b8`, stable Release `392074105`. The nine stable asset descriptors and four original metadata bodies are pinned. Reuse accepted initial Archive32 source `50909e7cf38916fe7d3e2e7eb79339bb49ae80b9` / tree `b11d49db3eb2e7416bc5d8b0b6f01f8084911345` and original extractor tooling `a13ab970222498d7c5fa7f62f9fc04fe436979d5`. Production prepare.py/verify.py, corruption guards and release-explorer redirect remain byte-identical. Do not fetch source.tar, rebuild the game or rewrite historical release bodies.
+
+Expected inventory: **712 rows / 313,572,608 bytes**: 708 original runtime/metadata rows / 313,487,969 bytes; one unchanged qualification row / 83,245 bytes; three support rows / 1,394 bytes. Archive33 starts empty: prior and preserved row counts are zero. Existing 32 archives remain untouched. Accepted Archive32 already holds 627,136,217 bytes; even adding only Workshop runtime would total 940,624,186, above its 800,000,000-byte limit. The separate Archive33 leaves 486,427,392 bytes.
+
+The main-only workflow fetches exactly every locked immutable tag (`v0.64.3`). Its 3 GiB hosted free-space guard, 20,000-row and 800 MB caps, complete hidden-file inventory/CRC/hash verification, original ZIP transport and non-cancelling concurrency remain unchanged. The original distribution is 313,609,482 bytes. It is downloaded only by the established hosted extractor after root activation; this proposal fetched no media or artifact bodies.
+
+Root must separately bind actual repository, commit, run, deployment, receipt, complete HTTP audit and native Workshop navigation observations before additive Archive33 admission. Keep existing 32 admissions, historical routes and all current catalog records. Do not include draft v0.65.0. Physical input, browser offline/audio and parent-phase acceptance remain separate.
