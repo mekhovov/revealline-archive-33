@@ -1,0 +1,192 @@
+{
+  "status": "INACTIVE_PREPARATION_PENDING_MAIN_AND_ARCHIVE_ACCEPTANCE",
+  "repository": "mekhovov/revealline-archive-33",
+  "sourceRepository": "mekhovov/revealline",
+  "releaseId": 392074105,
+  "version": "v0.64.3",
+  "releasePublishedAt": "2026-09-19T20:03:17Z",
+  "sourceRevision": "7a9985ec00168b99a86c1d5db0457343ca18ffae",
+  "sourceTree": "4a5960488f4c19fc8fbd6e784c612b8bdb81596e",
+  "tagObject": "0d06433cbcd5bafdda630d8590198bde05c3d4b8",
+  "originalAssets": [
+    {
+      "name": "distribution.zip",
+      "id": 574785032,
+      "bytes": 313609482,
+      "sha256": "d53ce0c5a861adc8b45949794a2543ef235e474069c411af682d90722df2bb18",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/distribution.zip"
+    },
+    {
+      "name": "distribution.zip.sha256",
+      "id": 574777485,
+      "bytes": 83,
+      "sha256": "fd6b6cca675db5f43eb299c455e0a308a1f7ad9281b6beaca62ffd08d84a6321",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/distribution.zip.sha256"
+    },
+    {
+      "name": "manifest.json",
+      "id": 574777454,
+      "bytes": 129737,
+      "sha256": "309488404c691f20ebce60ee4aac009c4d35066a24fb2959004fb9e436570663",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/manifest.json"
+    },
+    {
+      "name": "qualification-evidence-record.json",
+      "id": 574777551,
+      "bytes": 15893,
+      "sha256": "21352ffc1d2e7e4b648f747f2a31cbe201f7d4e66ca6f2a0cabbe7378285367a",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/qualification-evidence-record.json"
+    },
+    {
+      "name": "release.json",
+      "id": 574777471,
+      "bytes": 465,
+      "sha256": "0de0c6d4a3ebd4bbdcb5ef9ad71824b6d72f08fcdb6e0e4de9c5d530a0a190cb",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/release.json"
+    },
+    {
+      "name": "source-qualification-evidence.zip",
+      "id": 574777523,
+      "bytes": 1669924,
+      "sha256": "5ccdca07d91877410b96ac5cbb389615fa349257a3b711fa752ac1bc2198882f",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/source-qualification-evidence.zip"
+    },
+    {
+      "name": "source-qualification.json",
+      "id": 574777501,
+      "bytes": 83245,
+      "sha256": "8e2e847064e221349167e88be46ea4c2aad613e252e0b14d4857d37139e7cf33",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/source-qualification.json"
+    },
+    {
+      "name": "source.tar",
+      "id": 574783915,
+      "bytes": 1229496320,
+      "sha256": "ecf107dbe9d303f413af279b61dcbcaac5e92b44fc8959541fe6120dd7471e2e",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/source.tar"
+    },
+    {
+      "name": "verification.json",
+      "id": 574777542,
+      "bytes": 1914,
+      "sha256": "23a67be0fa8159bc65af29b54eb3c544aa21035358693b546f051c51ddbbd757",
+      "state": "uploaded",
+      "url": "https://github.com/mekhovov/revealline/releases/download/v0.64.3/verification.json"
+    }
+  ],
+  "originalMetadata": [
+    {
+      "path": "metadata/v0.64.3/release.json",
+      "original": {
+        "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/reviewed-small-assets/release.json",
+        "bytes": 465,
+        "sha256": "0de0c6d4a3ebd4bbdcb5ef9ad71824b6d72f08fcdb6e0e4de9c5d530a0a190cb"
+      },
+      "assetId": 574777471
+    },
+    {
+      "path": "metadata/v0.64.3/manifest.json",
+      "original": {
+        "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/reviewed-small-assets/manifest.json",
+        "bytes": 129737,
+        "sha256": "309488404c691f20ebce60ee4aac009c4d35066a24fb2959004fb9e436570663"
+      },
+      "assetId": 574777454
+    },
+    {
+      "path": "metadata/v0.64.3/distribution.zip.sha256",
+      "original": {
+        "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/reviewed-small-assets/distribution.zip.sha256",
+        "bytes": 83,
+        "sha256": "fd6b6cca675db5f43eb299c455e0a308a1f7ad9281b6beaca62ffd08d84a6321"
+      },
+      "assetId": 574777485
+    },
+    {
+      "path": "metadata/v0.64.3/source-qualification.json",
+      "original": {
+        "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/reviewed-small-assets/source-qualification.json",
+        "bytes": 83245,
+        "sha256": "8e2e847064e221349167e88be46ea4c2aad613e252e0b14d4857d37139e7cf33"
+      },
+      "assetId": 574777501
+    }
+  ],
+  "knownOriginalPins": [
+    {
+      "path": ".cache/v0643-stable-publication-r1/by-tag.json",
+      "bytes": 15981,
+      "sha256": "82ae1208897b7b9c62da6e88eb3fe2b89a25e57110bf4644dfe0ba50aa8e542f"
+    },
+    {
+      "path": ".cache/v0643-stable-publication-r1/tag-ref.json",
+      "bytes": 337,
+      "sha256": "50ddee1affda610092ae8b2833b2120f14d978f6bdd43ac5ff2590a38564fd7b"
+    },
+    {
+      "path": ".cache/v0643-stable-publication-r1/tag-object.json",
+      "bytes": 714,
+      "sha256": "eda6b1c692ba08932f743c012f055417d212199f025ccb2965b52b71e5153ab5"
+    },
+    {
+      "path": ".cache/v0643-stable-publication-r1/source-commit.json",
+      "bytes": 1444,
+      "sha256": "ef581eb5d56eb5f0a67bfd1d7837aa71760a38bdba715856c6d8f80f6c48a680"
+    },
+    {
+      "path": ".cache/v0643-stable-publication-r1/receipt.json",
+      "bytes": 191,
+      "sha256": "3339c1ceb6d5bc6e97dc4fb8914f61850c091151cf8ff578d8a4f79db8f64225"
+    },
+    {
+      "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/nine-assets-reconciliation.json",
+      "bytes": 2744,
+      "sha256": "265e8cbebe2c998d263021f2c62ba2a9a136ac8b6512b9be2d981c4dc3b61bd6"
+    },
+    {
+      "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/qualified-artifact-verified/inspection.json",
+      "bytes": 1914,
+      "sha256": "c7be6fd337fa2cb72986d57d1bb41d777cfb11d2b01e2fbe03e074af550eda94"
+    },
+    {
+      "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/qualified-artifact-verified/release.json",
+      "bytes": 465,
+      "sha256": "0de0c6d4a3ebd4bbdcb5ef9ad71824b6d72f08fcdb6e0e4de9c5d530a0a190cb"
+    },
+    {
+      "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/qualified-artifact-verified/manifest.json",
+      "bytes": 129737,
+      "sha256": "309488404c691f20ebce60ee4aac009c4d35066a24fb2959004fb9e436570663"
+    },
+    {
+      "path": ".cache/v0643-upload-intake-preparation-r1/root-small-intake-r1/evidence/qualified-artifact-verified/distribution.zip.sha256",
+      "bytes": 83,
+      "sha256": "fd6b6cca675db5f43eb299c455e0a308a1f7ad9281b6beaca62ffd08d84a6321"
+    }
+  ],
+  "templateRepository": "mekhovov/revealline-archive-32",
+  "templateCommit": "50909e7cf38916fe7d3e2e7eb79339bb49ae80b9",
+  "templateTree": "b11d49db3eb2e7416bc5d8b0b6f01f8084911345",
+  "mainPublicAcceptance": null,
+  "actualRepositoryId": null,
+  "actualSeedCommit": null,
+  "actualArchiveCommit": null,
+  "actualWorkflowRun": null,
+  "actualDeploymentId": null,
+  "publicAcceptance": null,
+  "priorAcceptedArchivePaths": 0,
+  "preservedPriorRows": 0,
+  "changedPriorPaths": [],
+  "newRows": 712,
+  "newBytes": 313572608,
+  "budgetBytes": 800000000,
+  "frozenInspectionScope": "Retained hosted original reports byte verification of the 704 distribution rows and complete source TAR against exact source/tree; this proposal has not downloaded or rehashed those large payloads."
+}
